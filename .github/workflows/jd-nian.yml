@@ -3,7 +3,7 @@ name: lxk0301-京东年兽
 on:
     workflow_dispatch:
     schedule:
-        - cron: "15 4-6/1 * * *"
+        - cron: "15 4-10/1 * * *"
     watch:
         types: [started]
     repository_dispatch:
